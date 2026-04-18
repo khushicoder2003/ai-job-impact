@@ -1,31 +1,26 @@
 # ai-job-impact
-Teen Lifestyle & Mental Health Insights: Data Analysis & BI Reporting
+AI Job Impact Analysis: Data Analysis & BI Reporting
+Overview
 
-Overview:
-This project utilizes IBM Cognos Analytics to analyze teen lifestyle and mental health data, transforming raw information into meaningful insights. Through interactive dashboards and reports, the project highlights behavioral trends and their impact on mental well-being, enabling better understanding and decision-making for stakeholders.
+This project leverages IBM Cognos Analytics to analyze the impact of artificial intelligence on jobs and employment trends. By transforming raw data into interactive dashboards and reports, the project highlights how AI is influencing job roles, skill demands, and workforce dynamics, providing valuable insights for stakeholders.
 
-Objectives:
-Data Modeling: Build a structured data model to ensure reliable and consistent reporting.
-Interactive Visualization: Develop dynamic dashboards for exploring relationships between lifestyle habits and mental health.
-Business Insights: Identify key factors such as screen time, sleep patterns, and academic stress affecting teen well-being.
-Technical Mastery: Demonstrate expertise in IBM Cognos features like calculated measures, filters, and visual storytelling.
-
-Dataset Profile:
-Name: Teen Mental Health Dataset
-Source: Synthetic / Educational Dataset
+Objectives
+Data Modeling: Develop a structured data module to ensure accurate representation of job-related metrics.
+Interactive Visualization: Create dashboards to explore the impact of AI across different job roles and industries.
+Business Insights: Identify trends in job displacement, skill requirements, and emerging opportunities due to AI.
+Technical Mastery: Demonstrate proficiency in IBM Cognos tools such as filters, calculations, and advanced visualizations.
+Dataset Profile
+Name: AI Job Impact Dataset
+Source: Public / Educational Dataset
 Format: CSV
-Dimensions: 13 columns × 1200 rows
-Domain: Healthcare / Behavioral Analytics
-
+Dimensions: 10 columns × 1000 rows (approx.)
+Domain: Technology / Employment Analytics
 Description:
+This dataset focuses on how artificial intelligence is affecting employment across various sectors. It includes information about job roles, required skills, automation risk, industry trends, and the potential impact of AI on workforce demand.
+Key Insights
+Trend 1: Jobs involving repetitive and routine tasks show a higher risk of automation due to AI advancements.
+Anomaly 2: Certain traditional roles continue to grow despite high automation potential, indicating adaptability or evolving job requirements.
+Prediction 3: Demand for AI-related and technical skills is expected to increase significantly, leading to the creation of new job opportunities in the future.
+Conclusion
 
-This dataset captures various aspects of teenage life, including social media usage, sleep duration, academic performance, and psychological indicators. It is designed to study how lifestyle choices influence stress, anxiety, and depression levels among teenagers.
-
-Key Insights:
-Trend 1: Higher daily screen time is associated with increased stress and anxiety levels.
-Anomaly 2: Some teenagers with balanced social and physical activity still show signs of anxiety, suggesting underlying factors beyond lifestyle.
-Prediction 3: Teens with low sleep duration and high academic pressure are more likely to experience depressive symptoms over time.
-
-Conclusion:
-
-This project demonstrates how raw behavioral data can be transformed into actionable insights using IBM Cognos Analytics. The interactive dashboards provide a clear understanding of mental health patterns, enabling stakeholders to identify risk factors and make informed, data-driven decisions.
+This project demonstrates how data analytics can uncover the evolving relationship between AI and employment. Using IBM Cognos Analytics, the project delivers an interactive reporting framework that helps stakeholders understand trends, anticipate changes, and make informed decisions in a rapidly transforming job market.
